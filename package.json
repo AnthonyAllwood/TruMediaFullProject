@@ -1,0 +1,25 @@
+{
+  "name": "trumediafullproject",
+  "version": "1.0.0",
+  "description": "The entire TruMedia project  ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyAllwood/TruMediaFullProject.git"
+  },
+  "author": "Anthony Allwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyAllwood/TruMediaFullProject/issues"
+  },
+  "homepage": "https://github.com/AnthonyAllwood/TruMediaFullProject#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.5"
+  }
+}

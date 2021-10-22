@@ -1,0 +1,101 @@
+/*TAG SELECTORS*/
+p{
+    font-weight: bold;
+}
+h4{
+    font-weight: bold;
+}
+h6{
+    padding: 2%;
+    border: 1px solid white;
+}
+/*CLASS SELECTORS*/
+.header {
+    background-color: #295a8e;
+    color: #ffffff;
+    text-align: center;
+    padding: 3%;
+}
+.heading{
+    padding: 2%; 
+    color: #00BFFF;
+}
+.content {
+    color: #295a8e;
+    text-align: center;
+}
+.card{
+    width: 100%;
+    margin: 3%;
+    text-align: center;
+}
+.card-img{
+    height: 300px;
+    width: 100%;
+    border: 3px solid black;
+}
+.card-body{
+    text-align: center;
+}
+.team-img {
+    height: 150px;
+    width: 40%;
+}
+.profile-header-team-img{
+    height: 80px;
+    width: 80px;
+}
+.profile-team-img {
+    height: 50px;
+    width: 50px;
+}
+.profile-opp-img {
+    height: 50px;
+    width: 50px;
+}
+.card-footer{
+    text-align: center;
+}
+.profile-header{
+    padding: 5%;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("https://wallpapercave.com/wp/fz2Uokj.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.player-img{
+    padding: 2%;
+}
+.profile-description{
+    padding: 2%;
+}
+.field-background{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("https://www.pixelstalk.net/wp-content/uploads/2016/10/American-football-ball-cool-wallpapers.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.year-breakdown{
+    text-align: center;
+}
+.breakdown{
+    background-color: #000000;
+    color: #00BFFF;
+}
+.derived-rate{
+    font-weight: bold;
+}
+.floating-stat{
+    float: left; 
+    width: 100px;
+}
+
+
+
+/*ID SELECTORS*/
