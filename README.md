@@ -7,9 +7,13 @@ This repo has a gitignore file in the backend that ignores .env. This is not nec
 REFERENCE VIDEOs: 
 
 BACKEND AND FRONTEND DEVELOPENT (NODEJS and NUXTJS)
+
 https://www.youtube.com/watch?v=TRcHF2vTB2w
 
 DEPLOYMENT USING HEROKU AND NETLIFY
+
 https://www.youtube.com/watch?v=M7TJeCk4iL8&t=49s
+
 https://www.youtube.com/watch?v=Z_D4w6HmT8k
+
 https://www.youtube.com/watch?v=rUSjVri4I30&t=726s
