@@ -4,9 +4,9 @@ The official project that was created and modified for deployment is in the TruM
 Important Note: 
 This repo has a gitignore file in the backend that ignores .env. This is not necessary in the official project due to deployment reasons involving Heroku.
 
-REFERENCE VIDEOs: 
+REFERENCE VIDEOS: 
 
-BACKEND AND FRONTEND DEVELOPENT (NODEJS and NUXTJS)
+<strong>BACKEND AND FRONTEND DEVELOPENT (NODEJS and NUXTJS)</strong>
 
 https://www.youtube.com/watch?v=TRcHF2vTB2w
 
