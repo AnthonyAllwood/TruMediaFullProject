@@ -10,7 +10,7 @@ REFERENCE VIDEOS:
 
 https://www.youtube.com/watch?v=TRcHF2vTB2w
 
-DEPLOYMENT USING HEROKU AND NETLIFY
+<strong>DEPLOYMENT USING HEROKU AND NETLIFY</strong>
 
 https://www.youtube.com/watch?v=M7TJeCk4iL8&t=49s
 
